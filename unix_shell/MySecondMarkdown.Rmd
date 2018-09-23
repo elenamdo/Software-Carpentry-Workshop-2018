@@ -1,0 +1,26 @@
+---
+title: "MySecondMarkdown"
+author: "Maria Maldonado"
+date: "9/23/2018"
+output: html_document
+---
+
+# This Is My Title
+
+## First Section
+
+**First Set of Data**  
+`And here is some code`  
+_Explanation here_
+
+## Second Section
+
+1. Data 1
+2. Data 2
+3. Data 3
+
+## Third Section 
+
+1. Data 1
+2. Data 2
+3. Data 3

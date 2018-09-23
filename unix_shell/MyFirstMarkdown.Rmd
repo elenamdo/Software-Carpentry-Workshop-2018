@@ -1,0 +1,36 @@
+---
+title: "FirstMarkdownDocument"
+author: "Maria Maldonado"
+date: "9/23/2018"
+output: html_document
+---
+
+**Bold**-Bold with double asterisks  
+_Italics_- Italics with underscore  
+`r`- Code with backticks  
+
+# Title
+## Main Section
+### Sub Section
+#### Sub-Sub Section
+
+
+- Item 1
+- Item 2
+- Item 3
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+[](https://www.google.com)  
+<https://www.google.com>  
+
+![Figure 1](~/Desktop/SWC_fall2018/Canada.png)
+
+$E = mc^2$
+
+```{r load_data}
+gapminder <- read.table("unix_shell/Data/gapminder.txt", header=T)
+gapminder
+```
